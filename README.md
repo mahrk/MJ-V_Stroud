@@ -1,2 +1,2 @@
-# MJ-V_Stroud
-MJ &amp; V Stroud official website. 
+# Retail That Rocks!
+Retail That Rocks! | official website. 
