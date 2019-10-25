@@ -22465,7 +22465,7 @@ Header Font Family
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   z-index: 99999; }
   .popup-mobile-manu .inner {
-    background: #000000;
+    background: #ee1414;
     position: relative;
     width: 400px;
     max-width: 80%;
@@ -22561,7 +22561,7 @@ Header Font Family
       position: relative; }
       .object-custom-menu li.has-mega-menu > a span {
         font-size: 14px;
-        color: #999999; }
+        color: #fff; }
       .object-custom-menu li.has-mega-menu > a::after {
         position: absolute;
         top: 50%;
