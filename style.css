@@ -12268,7 +12268,7 @@ Progress Charts
       width: 80px;
       margin: 0 auto 24px; }
       .bk-gradation .item-grid .dot-wrap .dot {
-        background: #0038E3; }
+        background: #ee1414; }
         .bk-gradation .item-grid .dot-wrap .dot::before, .bk-gradation .item-grid .dot-wrap .dot::after {
           content: "";
           position: absolute;
@@ -24495,7 +24495,10 @@ body.template-color-1 .blog-grid .post-inner .post-meta .post-category:hover a {
   color: #0038E3; }
 
 body.template-color-1 .theme-color {
-  color: #fff; }
+  color: #222222; }
+
+  body.template-color-1 .theme-colorZ {
+    color: #fff; }
 
 body.template-color-1 .bg_color--2 {
   background: #ee1414; }
