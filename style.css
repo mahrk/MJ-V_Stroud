@@ -12883,7 +12883,7 @@ Testimonial Area
     list-style: none; }
     .testimonial_style--2 .content ul.rating li i {
       padding: 0 2px;
-      color: #ffb944;
+       color: #FCB72B;
       font-size: 12px; }
   .testimonial_style--2 .content p {
     font-size: 16px;
@@ -13024,7 +13024,7 @@ Testimonial Area
     list-style: none; }
     .testimonial-nav-content .testimonial-nav .content .rating li i {
       padding: 0 2px;
-      color: #ffb944;
+      color: #ee1414;
       font-size: 18px; }
   .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info h6 {
     color: #fff;
@@ -29301,7 +29301,7 @@ body.template-color-20 .brook-counter .icon i {
   color: #CE8F4F; }
 
 body.template-color-20 .social-share a:hover {
-  color: #CE8F4F; }
+  color: #ee1414; }
 
 body.template-color-20 .social-icon.tooltip-layout li a.hint--theme[aria-label]::after {
   background: #CE8F4F; }
@@ -29380,7 +29380,7 @@ body.template-color-20 .bl-sidebar.tag .inner .tagcloud li a:hover {
   color: #CE8F4F; }
 
 body.template-color-20 .social-icon.icon-solid-rounded li a:hover {
-  background-color: #CE8F4F; }
+  background-color: #ee1414; }
 
 body.template-color-20 .icon-box .inner .icon {
   color: #ee1414; }
