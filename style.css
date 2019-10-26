@@ -1178,7 +1178,13 @@ Animation Css
   background-position: center center; }
 
 .bg_image--8 {
-  background-image: url(img/bg/bg-image-8.jpg);
+  background-image: url(img/bg/rtr_blog_bkgd_4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+  .bg_image--8A {
+  background-image: url(img/bg/rtr_events_bg_2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -17872,7 +17878,7 @@ Portfolio Nav Page
         -o-transition: all .5s;
         transition: all .5s; }
         .blog-grid .post-content .post-inner .post-meta .post-category a:hover {
-          color: #0038E3; }
+          color: #0038e3; }
       .blog-grid .post-content .post-inner .post-meta .post-category.hover-yellow-color a:hover {
         color: #FCB72B; }
   .blog-grid.bg-transparent .post-content {
@@ -24492,7 +24498,7 @@ body.template-color-1 .blog-grid .post-inner h5.heading:hover {
     color: #0038E3; }
 
 body.template-color-1 .blog-grid .post-inner .post-meta .post-category:hover a {
-  color: #0038E3; }
+  color: #ee1414; }
 
 body.template-color-1 .theme-color {
   color: #222222; }
@@ -24651,12 +24657,12 @@ body.template-color-1 .blog-grid-no-flex .post-quote::before {
   color: #0038E3; }
 
 body.template-color-1 .brook-pagination-wrapper .brook-pagination li a {
-  border: 1px solid #0038E3; }
+  border: 1px solid #ee1414; }
   body.template-color-1 .brook-pagination-wrapper .brook-pagination li a:hover {
-    background: #0038E3; }
+    background: #ee1414; }
 
 body.template-color-1 .brook-pagination-wrapper .brook-pagination li.active a {
-  background: #0038E3; }
+  background: #ee1414; }
 
 body.template-color-1 .bl-sidebar.search button:hover {
   background-color: #0038E3; }
