@@ -1202,7 +1202,7 @@ Animation Css
   background-position: center center; }
 
 .bg_image--11 {
-  background-image: url(img/bg/bg-image-11.jpg);
+  background-image: url(img/bg/about_us_bg_1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -17828,7 +17828,7 @@ Portfolio Nav Page
         -o-transition: all .5s;
         transition: all .5s; }
         .blog-grid .post-content .post-inner h4.heading a:hover {
-          color: #0038E3; }
+          color: #ee1414; }
       .blog-grid .post-content .post-inner h4.heading.hover-yellow-color a:hover {
         color: #FCB72B; }
     .blog-grid .post-content .post-inner h3.heading {
